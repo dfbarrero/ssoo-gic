@@ -2,6 +2,7 @@
 * Introducción: https://docs.google.com/presentation/d/e/2PACX-1vT4X8sGOxfOxBYHFoZDTau61KRBWf4fzuTew-IpZm5CUGdMuF7gqALF5bqMs0APrxk3C3pH5TCMI9VV/pub?start=false&loop=false&delayms=3000#slide=id.p
 * Estructura: https://docs.google.com/presentation/d/e/2PACX-1vTA0_mTbq55purdNVRKP3IBfHQKEdMFBNnXPpB0MX4WZ9qpQhbRPTL-E7ZXcvWNMo5X-yy8WU3VivhV/pub?start=false&loop=false&delayms=3000#slide=id.p
   - Enfoques de diseño: https://docs.google.com/presentation/d/e/2PACX-1vRG3qga7eC23PsVPVQ2brZL96Rk6WvWcVL92bSz79GyqhSndMcCg5-J_0QC3zCAA6sZGuZzzwtSiqt3/pub?start=false&loop=false&delayms=3000#slide=id.ga0e35b1e86_0_59
+* Procesos e hilos: https://docs.google.com/presentation/d/e/2PACX-1vS95mHKcNwymt7_FyZRwAAkJppo3_kPfn6vSXP261FIZwvPBihop1SP7HDeBAamU23mQOmkO171mXzk/pub?start=false&loop=false&delayms=3000#slide=id.p
 
 ## Laboratorio
 * Lab 1: Consola de Linux: https://docs.google.com/presentation/d/e/2PACX-1vT_DVfoOJFY7W-ySU_QRpYCKatYrtmj7t5wbEYLqh48q9uYHqjBW3cIoF3wYuJ9h_j3hAA-XCAZnbUB/pub?start=false&loop=false&delayms=3000#slide=id.p
