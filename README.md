@@ -11,3 +11,4 @@
 * Lab 2: Introducción al simulador: https://docs.google.com/presentation/d/e/2PACX-1vTIqETIJMT1ZMh8U5j5Pja7zOUNW1XY_WxEwhJwKsKwFBn1cyLifE48vlKdBc57o6ZoJrilGOlOlvNR/pub?start=false&loop=false&delayms=3000#slide=id.p
 * Lab 3: Interrupciones y entrada/salida: https://docs.google.com/presentation/d/e/2PACX-1vTIqETIJMT1ZMh8U5j5Pja7zOUNW1XY_WxEwhJwKsKwFBn1cyLifE48vlKdBc57o6ZoJrilGOlOlvNR/pub?start=false&loop=false&delayms=3000#slide=id.p
 * Lab 4: Excepciones y llamadas al sistema: https://docs.google.com/presentation/d/e/2PACX-1vQcKzowsEiiiIrHvqwT9UVK9lv3y8PsWAiPFWs8KKQDGluP7ug2Qw-KyNMcjs-4hniSXNAVUaee-GNl/pub?start=false&loop=false&delayms=3000#slide=id.p
+* Lab 5: Entorno de desarrollo Linux: https://docs.google.com/presentation/d/e/2PACX-1vSju7kSvgw5C-oApccXxTs2PNWfU_Zie52cg175AkdNFWLgMLrNzouR_Q1EUWLY57PYDd_NK409hKYe/pub?start=false&loop=false&delayms=3000#slide=id.p
