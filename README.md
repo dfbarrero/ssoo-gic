@@ -12,3 +12,6 @@
 * Lab 3: Interrupciones y entrada/salida: https://docs.google.com/presentation/d/e/2PACX-1vTIqETIJMT1ZMh8U5j5Pja7zOUNW1XY_WxEwhJwKsKwFBn1cyLifE48vlKdBc57o6ZoJrilGOlOlvNR/pub?start=false&loop=false&delayms=3000#slide=id.p
 * Lab 4: Excepciones y llamadas al sistema: https://docs.google.com/presentation/d/e/2PACX-1vQcKzowsEiiiIrHvqwT9UVK9lv3y8PsWAiPFWs8KKQDGluP7ug2Qw-KyNMcjs-4hniSXNAVUaee-GNl/pub?start=false&loop=false&delayms=3000#slide=id.p
 * Lab 5: Entorno de desarrollo Linux: https://docs.google.com/presentation/d/e/2PACX-1vSju7kSvgw5C-oApccXxTs2PNWfU_Zie52cg175AkdNFWLgMLrNzouR_Q1EUWLY57PYDd_NK409hKYe/pub?start=false&loop=false&delayms=3000#slide=id.p
+* Lab 6: Git: https://docs.google.com/presentation/d/1cU8g3xd2eTQ0oqE8FnS6-nMgrkDwE8SAVYUgwp8_ocw/edit?usp=drive_link
+* Lab 7: Procesos: https://docs.google.com/presentation/d/e/2PACX-1vTegrxjmb_WCo6hmixXNPJPqVXpO_J30kWHXOyIO5C8ennWZuVOT9MIAA5N9fgiM7EAx2bgH2iuPlAd/pub?start=false&loop=false&delayms=3000#slide=id.p
+* Lab 8: Hilos: https://docs.google.com/presentation/d/e/2PACX-1vRDvJsViV2CNdmM62fishz7c9KEtfa_UE2ivbnIVcVpc87Xu30c-wdsXUF8-PVQdoN5cEwiOHlFgYPZ/pub?start=false&loop=false&delayms=3000#slide=id.p
