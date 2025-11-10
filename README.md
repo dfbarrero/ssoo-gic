@@ -3,7 +3,7 @@
 * Estructura: https://docs.google.com/presentation/d/e/2PACX-1vTA0_mTbq55purdNVRKP3IBfHQKEdMFBNnXPpB0MX4WZ9qpQhbRPTL-E7ZXcvWNMo5X-yy8WU3VivhV/pub?start=false&loop=false&delayms=3000#slide=id.p
   - Enfoques de diseño: https://docs.google.com/presentation/d/e/2PACX-1vRG3qga7eC23PsVPVQ2brZL96Rk6WvWcVL92bSz79GyqhSndMcCg5-J_0QC3zCAA6sZGuZzzwtSiqt3/pub?start=false&loop=false&delayms=3000#slide=id.ga0e35b1e86_0_59
 * Procesos e hilos: https://docs.google.com/presentation/d/e/2PACX-1vS95mHKcNwymt7_FyZRwAAkJppo3_kPfn6vSXP261FIZwvPBihop1SP7HDeBAamU23mQOmkO171mXzk/pub?start=false&loop=false&delayms=3000#slide=id.p
-* Sincronización: https://docs.google.com/presentation/d/e/2PACX-1vS3r5JfLkY6_1Q1trP1zn0vHS-IOvvaZRxxxYk8-agTWpeCOpYi8f9H3qSLDwBg_NOaNzzCg2hfh5gU/pub?start=false&loop=false&delayms=3000#slide=id.p
+* Sincronización: https://docs.google.com/presentation/d/e/2PACX-1vQTz0QXy5Zbs_E88GrkYva3kDA_H4r2ZPNC4S0nnlLA2h8DYMbPgos42lzDr-xZQCJuu6PSyn8SKF_X/pub?start=false&loop=false&delayms=3000#slide=id.g39cbd2ec16a_0_104
 * Planificación: https://uah.blackboard.com/ultra/courses/_40106_1/outline/edit/document/_3312310_1?courseId=_40106_1&view=content&state=view
 
 ## Laboratorio
