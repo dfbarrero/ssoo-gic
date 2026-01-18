@@ -15,3 +15,4 @@
 * Lab 6: Git: https://docs.google.com/presentation/d/1cU8g3xd2eTQ0oqE8FnS6-nMgrkDwE8SAVYUgwp8_ocw/edit?usp=drive_link
 * Lab 7: Procesos: https://docs.google.com/presentation/d/e/2PACX-1vTegrxjmb_WCo6hmixXNPJPqVXpO_J30kWHXOyIO5C8ennWZuVOT9MIAA5N9fgiM7EAx2bgH2iuPlAd/pub?start=false&loop=false&delayms=3000#slide=id.p
 * Lab 8: Hilos: https://docs.google.com/presentation/d/e/2PACX-1vRDvJsViV2CNdmM62fishz7c9KEtfa_UE2ivbnIVcVpc87Xu30c-wdsXUF8-PVQdoN5cEwiOHlFgYPZ/pub?start=false&loop=false&delayms=3000#slide=id.p
+
